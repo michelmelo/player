@@ -3,7 +3,7 @@ name: Build android apk
 on:
   push:
     branches:
-      - prod
+      - master
 
 jobs:
   build:
